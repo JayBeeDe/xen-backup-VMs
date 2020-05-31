@@ -22,7 +22,7 @@ You are welcome to implement it by following the script philosophy.
 
 # Thanks
 
-Initially developped by [Linagora](https://linagora.com/), this script has been released on GitHub under the [GNU General Public License version 3](LICENSE.md).
+Initially developped by [Linagora](https://linagora.com/), this script has been released on GitHub under the [GNU General Public License version 3](LICENSE).
 
 <p align="center">
   <a href="https://linagora.com/"><img alt="Linagora" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Linagora-logo.png/420px-Linagora-logo.png"></a>
@@ -34,7 +34,7 @@ Initially developped by [Linagora](https://linagora.com/), this script has been 
 
 # Contact
 
-If you have questions, troobleshoutings or improvement proposals which ONLY DIRECTLY CONCERN the Frq-Bash-Library, please contact me :
+If you have questions, troobleshoutings or improvement proposals which ONLY DIRECTLY CONCERN this script, please contact me :
 
 >27-03-2020 | Jean-Baptiste DELON [Issues](https://github.com/JayBeeDe/xen-backup-VMs/issues)
 
